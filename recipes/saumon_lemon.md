@@ -1,6 +1,19 @@
-# Ingredients For the salmon -
+
+# Salmon Confit with Lemongrass Sauce
+
 --------------------------------------------
+
 > Bao TON
+
+--------------------------------------------
+
+![Saumon Confit](recipes/saumon.jpg)
+
+---------------------------------------------
+
+##  Ingredients For the salmon 
+
+---------------------------------------------
 
 - 400g – 450g salmon fillets (preferably skinless)
 - 2 tablespoons extra virgin olive oil Salt and pepper to taste
@@ -19,8 +32,10 @@
 - 1 teaspoon liquid chicken stock (or 1/2 cube of chicken stock cubes) Chives to garnish
 
 -------------------------------------------
-# Preparation
---------------------------------------------
+
+## Preparation
+
+-------------------------------------------
 
 1. Begin by preheating the oven to 120°C. An efficient oven is important for this dish. If the oven is too cold, the fish will not get cooked. If the oven tends to get too hot, the fish will be roasted and overcooked. If you are uncertain, then think about whether your cookies/cakes are usually overdone or underdone when you follow a recipe exactly. If they are always overdone, then you can turn down the temperature to 110°C.
 2. Get the freshest salmon fillets you can get your hands on. The thick ones are the nicest for this dish.
